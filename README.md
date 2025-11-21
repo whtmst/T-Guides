@@ -24,7 +24,7 @@
 | Название | Уровень | Статус | Ссылка |
 | :--- | :--- | :--- | :--- |
 | **Onyxia's Lair (Ony)** | 40-Man | 🛠️ В разработке | |
-| **Molten Core (MC)** | 40-Man | 🛠️ В разработке | |
+| **Molten Core (MC)** | 40-Man | ✅ Готов | [RAIDS/Molten Core.md](RAIDS/Molten%20Core.md) |
 | **Lower Karazhan Halls (LKH)** | 10-Man | ✅ Готов | [RAIDS/Lower Karazhan Halls.md](RAIDS/Lower%20Karazhan%20Halls.md) |
 | **Blackwing Lair (BWL)** | 40-Man | 🛠️ В разработке | |
 | **Emerald Sanctum (ES)** | 40-Man | 🛠️ В разработке | |
