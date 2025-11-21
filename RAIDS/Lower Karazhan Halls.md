@@ -4,7 +4,6 @@
 
 ## 🧪 **Расходники**
 
-* Основное зелье для Lower Karazhan Halls (LKH) - **[Greater Holy Protection Potion](https://database.turtle-wow.org/?item=13460)**.
 * Танкам: **[Flask of the Titans](https://database.turtle-wow.org/?item=13510)** (желательно если вы плохо одеты) и **[Greater Stoneshield Potion](https://database.turtle-wow.org/?item=13455)** (2000 брони на 2 мин) - особенно полезно в бою с **Clawlord Howlfang**.
 * Вся остальная **минимальная химия** пьется по умолчанию. Список можно посмотреть **[здесь](https://docs.google.com/spreadsheets/d/1F4txPb-2qzuf0FMHRqRDPYN3_nVGPMNQDlKYYwzOBDA/edit?gid=0#gid=0)**.
 * Наличие боссмода **[BigWigs](https://discord.com/channels/1139812611853140019/1394642936733368461/1435411672612208691)** обязательно для каждого уважаемого себя рейдера.
