@@ -56,7 +56,7 @@
 * **[Turtle WoW Attunement Guide](https://forum.turtle-wow.org/viewtopic.php?t=17691)** - гайд по всем аттюнам (доступам) классики и черепахи.
 * **[Raid Plan (Classic)](https://raidplan.io/classic)** - позиционирование и планирование босс-файтов.
 * **[Raid Composition](https://www.wowhead.com/classic/raid-composition)** - состав рейда (Wowhead).
-* **[Turtle WoW RaidRes](https://raidres.fly.dev/)** - инструмент для создания HR/SR списков.
+* **[Turtle WoW RaidRes](https://raidres.top/)** - инструмент для создания HR/SR списков.
 
 ### 🛠️ Аддоны и модификации
 * **[BigWigs (Turtle WoW Edition)](https://github.com/pepopo978/BigWigs)** - боссмод, адаптированный под Turtle WoW.
