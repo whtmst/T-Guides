@@ -1,6 +1,6 @@
 # 🐢 T-Guides: Гайды и тактики для сервера Turtle WoW
 
-[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main) | [![License](https://img.shields.io/github/license/whtmst/T-Guides?style=flat-square&label=License&labelColor=212830&color=f5c62c)](https://github.com/whtmst/T-Guides/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main) [![License](https://img.shields.io/github/license/whtmst/T-Guides?style=flat-square&label=License&labelColor=212830&color=f5c62c)](https://github.com/whtmst/T-Guides/blob/main/LICENSE)
 
 > 💡 **О проекте:** Этот репозиторий содержит полезные ссылки, подробные тактики и гайды для рейдов и подземелий сервера **[Turtle WoW](https://turtle-wow.org/)**.
 
