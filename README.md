@@ -1,5 +1,7 @@
 # 🐢 T-Guides: Гайды и тактики для сервера Turtle WoW
 
+![COVER](MISCELLANEOUS/img/T-Guides.png)
+
 [![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main) [![License](https://img.shields.io/github/license/whtmst/T-Guides?style=flat-square&label=License&labelColor=212830&color=f5c62c)](https://github.com/whtmst/T-Guides/blob/main/LICENSE)
 
 > 💡 **О проекте:** Этот репозиторий содержит полезные ссылки, подробные тактики и гайды для рейдов и подземелий сервера **[Turtle WoW](https://turtle-wow.org/)**.
@@ -18,7 +20,7 @@
 | **Upper Blackrock Spire (UBRS)** | 55-60 | 🛠️ В разработке | |
 | **Karazhan Crypt (Склепы Каражана)** | 58-60 | 🛠️ В разработке | |
 | **Stormwind Vault (Хранилище Штормграда)** | 60 | 🛠️ В разработке | |
-| **Caverns of Time: Black Morass (Пещеры времени: Черные топи)** | 60 | ✅ Готов | [DUNGEONS/Black Morass.md](DUNGEONS/Black%20Morass.md) |
+| **Caverns of Time: Black Morass (Пещеры времени: Черные топи)** | 60 | ✅ Готов | [DUNGEONS/Black Morass.md](DUNGEONS/BlackMorass.md) |
 
 ---
 
@@ -27,8 +29,8 @@
 | Название | Уровень | Статус | Ссылка |
 | :--- | :--- | :--- | :--- |
 | **Onyxia's Lair (Ony)** | 40-Man | ✅ Готов | [RAIDS/Onyxia.md](RAIDS/Onyxia.md) |
-| **Molten Core (MC)** | 40-Man | ✅ Готов | [RAIDS/Molten Core.md](RAIDS/Molten%20Core.md) |
-| **Lower Karazhan Halls (LKH)** | 10-Man | ✅ Готов | [RAIDS/Lower Karazhan Halls.md](RAIDS/Lower%20Karazhan%20Halls.md) |
+| **Molten Core (MC)** | 40-Man | ✅ Готов | [RAIDS/Molten Core.md](RAIDS/MoltenCore.md) |
+| **Lower Karazhan Halls (LKH)** | 10-Man | ✅ Готов | [RAIDS/Lower Karazhan Halls.md](RAIDS/LowerKarazhanHalls.md) |
 | **Blackwing Lair (BWL)** | 40-Man | 🛠️ В разработке | |
 | **Emerald Sanctum (ES)** | 40-Man | 🛠️ В разработке | |
 | **Zul'Gurub (ZG)** | 20-Man | 🛠️ В разработке | |
@@ -52,6 +54,7 @@
     * *Инструкция:* [Как парсить данные для графиков](https://github.com/whtmst/twow-raid-charts)
 
 ### 📅 Планирование и теория
+* **[Turtle WoW Raid Scaling](MISCELLANEOUS/RaidScaling.md)** - как работает уменьшение сложности (скалирование) рейдов в зависимости от состава.
 * **[Turtle WoW Talent Calculator](https://talent-builder.haaxor1689.dev/c/1.18.0)** - калькулятор талантов под патч 1.18.
 * **[Turtle WoW Gear Planner](https://pbrigade.gitlab.io/gear-planner/)** - планировщик экипировки. Присутствуют не все классы.
 * **[Threat Reference Table](https://www.warcrafttavern.com/wow-classic/guides/threat-guide-reference-table/)** - таблица механик угрозы (Threat) в классике.
