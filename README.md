@@ -1,6 +1,6 @@
-# 🐢 T-Guides: Гайды и тактики для сервера Turtle WoW
-
 ![COVER](MISCELLANEOUS/img/T-Guides.png)
+
+# 🐢 T-Guides: Альманах Turtle WoW
 
 [![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main) [![License](https://img.shields.io/github/license/whtmst/T-Guides?style=flat-square&label=License&labelColor=212830&color=f5c62c)](https://github.com/whtmst/T-Guides/blob/main/LICENSE)
 
