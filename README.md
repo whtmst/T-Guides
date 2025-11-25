@@ -55,6 +55,7 @@
 
 ### 📅 Планирование и теория
 * **[Turtle WoW Raid Scaling](MISCELLANEOUS/RaidScaling.md)** - как работает уменьшение сложности (скалирование) рейдов в зависимости от состава.
+* **[Turtle WoW Weekly Dungeon/Raid Quests](MISCELLANEOUS/WeeklyDungeonRaidQuests.md)** - гайд по еженедельным заданиям и их наградам.
 * **[Turtle WoW Talent Calculator](https://talent-builder.haaxor1689.dev/c/1.18.0)** - калькулятор талантов под патч 1.18.
 * **[Turtle WoW Gear Planner](https://pbrigade.gitlab.io/gear-planner/)** - планировщик экипировки. Присутствуют не все классы.
 * **[Threat Reference Table](https://www.warcrafttavern.com/wow-classic/guides/threat-guide-reference-table/)** - таблица механик угрозы (Threat) в классике.
