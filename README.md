@@ -31,7 +31,7 @@
 | **Onyxia's Lair (Ony)** | 40-Man | ✅ Готов | [RAIDS/Onyxia.md](RAIDS/Onyxia.md) |
 | **Molten Core (MC)** | 40-Man | ✅ Готов | [RAIDS/Molten Core.md](RAIDS/MoltenCore.md) |
 | **Lower Karazhan Halls (LKH)** | 10-Man | ✅ Готов | [RAIDS/Lower Karazhan Halls.md](RAIDS/LowerKarazhanHalls.md) |
-| **Blackwing Lair (BWL)** | 40-Man | 🛠️ В разработке | |
+| **Blackwing Lair (BWL)** | 40-Man | ✅ Готов | [RAIDS/Blackwing Lair.md](RAIDS/BlackwingLair.md) |
 | **Emerald Sanctum (ES)** | 40-Man | 🛠️ В разработке | |
 | **Zul'Gurub (ZG)** | 20-Man | 🛠️ В разработке | |
 | **Ruins of Ahn'Qiraj (AQ20)** | 20-Man | 🛠️ В разработке | |
