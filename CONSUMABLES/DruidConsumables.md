@@ -170,6 +170,7 @@
 | **[Greater Shadow Protection Potion](https://database.turtle-wow.org/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
 | **[Greater Nature Protection Potion](https://database.turtle-wow.org/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
 | **[Elixir of Poison Resistance](https://database.turtle-wow.org/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
+| **[Swiftness of Zanza](https://database.turtle-wow.org/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
 | **[Free Action Potion](https://database.turtle-wow.org/?item=5634)** | Иммунитет к оглушению и эффектам, ограничивающим передвижение, на 30 сек. |
 | **[Blessed Wizard Oil](https://database.turtle-wow.org/?item=23123)** | Повышает урон от заклинаний против нежити на 60, пока нанесено на оружие. Действует 1 час. |
 | **[Restorative Potion](https://database.turtle-wow.org/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
@@ -215,6 +216,7 @@
 | **[Greater Shadow Protection Potion](https://database.turtle-wow.org/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
 | **[Greater Nature Protection Potion](https://database.turtle-wow.org/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
 | **[Elixir of Poison Resistance](https://database.turtle-wow.org/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
+| **[Swiftness of Zanza](https://database.turtle-wow.org/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
 | **[Restorative Potion](https://database.turtle-wow.org/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
 | **[Juju Chill](https://database.turtle-wow.org/?item=12457)** | Повышает сопротивление магии льда на 10 мин. |
 | **[Juju Ember](https://database.turtle-wow.org/?item=12455)** | Повышает сопротивление магии огня на 10 мин. |

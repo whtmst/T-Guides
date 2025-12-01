@@ -109,7 +109,7 @@
 | :--- | :--- | :--- |
 | **ДРУИД** | ✅ Готов | [DruidConsumables.md](DruidConsumables.md) |
 | **ОХОТНИК** | ✅ Готов | [HunterConsumables.md](HunterConsumables.md) |
-| **МАГ** | 🛠️ В разработке | [MageConsumables.md](MageConsumables.md) |
+| **МАГ** | ✅ Готов | [MageConsumables.md](MageConsumables.md) |
 | **ПАЛАДИН** | 🛠️ В разработке | [PaladinConsumables.md](PaladinConsumables.md) |
 | **ПРИСТ** | 🛠️ В разработке | [PriestConsumables.md](PriestConsumables.md) |
 | **РАЗБОЙНИК** | 🛠️ В разработке | [RogueConsumables.md](RogueConsumables.md) |

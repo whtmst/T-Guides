@@ -105,6 +105,7 @@
 | **[Greater Nature Protection Potion](https://database.turtle-wow.org/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
 | **[Consecrated Sharpening Stone](https://database.turtle-wow.org/?item=23122)** | Повышает силу атаки против нежити на 100. Действует 1 час. |
 | **[Elixir of Poison Resistance](https://database.turtle-wow.org/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
+| **[Swiftness of Zanza](https://database.turtle-wow.org/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
 | **[Free Action Potion](https://database.turtle-wow.org/?item=5634)** | Иммунитет к оглушению и эффектам, ограничивающим передвижение, на 30 сек. |
 | **[Restorative Potion](https://database.turtle-wow.org/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
 | **[Juju Chill](https://database.turtle-wow.org/?item=12457)** | Повышает сопротивление магии льда на 10 мин. |
