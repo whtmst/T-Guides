@@ -230,7 +230,7 @@
 
 ### ✍️ **Участие и обратная связь**
 
-Если ты заметил **ошибку**, неточность в тактике или можешь что-то улучшить - не стесняйся! Смело создай **Issue**: [https://github.com/whtmst/T-Guides/issues](https://github.com/whtmst/T-Guides/issues).
+Если ты заметил **ошибку**, неточность в описании или можешь что-то улучшить - не стесняйся! Смело создай **Issue**: [https://github.com/whtmst/T-Guides/issues](https://github.com/whtmst/T-Guides/issues).
 
 ---
 
