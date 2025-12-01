@@ -1,6 +1,6 @@
 ![COVER](img/CavernsofTimeBlackMorass.png)
 
-# ⏳ **[Turtle WoW] Caverns of Time: Black Morass**
+# ⏳ **[T-Guides] Caverns of Time: Black Morass**
 
 ### ⚠️ ВАЖНО: Данный гайд адаптирован под сложное 5-ппл подземелье и основан на обзорах.
 

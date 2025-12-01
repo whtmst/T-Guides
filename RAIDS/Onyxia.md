@@ -1,6 +1,6 @@
 ![COVER](img/Onyxia.png)
 
-# 🐲 **[Turtle WoW] Onyxia's Lair**
+# 🐲 **[T-Guides] Onyxia's Lair**
 
 ## 🧪 **Расходники**
 

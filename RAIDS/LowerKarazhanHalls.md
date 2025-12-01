@@ -1,6 +1,6 @@
 ![COVER](img/LowerKarazhanHalls.png)
 
-# 🕸️ **[Turtle WoW] Lower Karazhan Halls**
+# 🕸️ **[T-Guides] Lower Karazhan Halls**
 
 ## 🧪 **Расходники**
 
