@@ -108,7 +108,7 @@
 | Класс | Статус | Ссылка |
 | :--- | :--- | :--- |
 | **ДРУИД** | ✅ Готов | [DruidConsumables.md](DruidConsumables.md) |
-| **ОХОТНИК** | 🛠️ В разработке | [HunterConsumables.md](HunterConsumables.md) |
+| **ОХОТНИК** | ✅ Готов | [HunterConsumables.md](HunterConsumables.md) |
 | **МАГ** | 🛠️ В разработке | [MageConsumables.md](MageConsumables.md) |
 | **ПАЛАДИН** | 🛠️ В разработке | [PaladinConsumables.md](PaladinConsumables.md) |
 | **ПРИСТ** | 🛠️ В разработке | [PriestConsumables.md](PriestConsumables.md) |
