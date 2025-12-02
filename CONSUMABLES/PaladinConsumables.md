@@ -141,6 +141,7 @@
 | **[Flask of the Titans](https://database.turtle-wow.org/?item=13510)** | Повышает максимальный запас здоровья игрока на 1200 на 2 часа. |
 | **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
 | **[Elixir of the Mongoose](https://database.turtle-wow.org/?item=13452)** | Повышает ловкость на 25 и вероятность критического удара на 2% на 1 час. |
+| **[Elixir of Giants](https://database.turtle-wow.org/?item=9206)** | Повышает силу на 25 на 1 час. |
 | **[Elixir of Fortitude](https://database.turtle-wow.org/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
 | **[Elixir of Superior Defense](https://database.turtle-wow.org/?item=13445)** | Повышает броню на 450 на 1 час. |
 | **[Dreamshard Elixir](https://database.turtle-wow.org/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
@@ -194,6 +195,7 @@
 
 | Предмет | Описание |
 | :--- | :--- |
+| **[Juju Power](https://database.turtle-wow.org/?item=12451)** | Повышает силу на 30 на 30 мин. |
 | **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)** | Повышает выносливость на 15 на 15 мин. |
 | **[Grilled Squid](https://database.turtle-wow.org/?item=13928)** | Если вы будете есть в течение 10 секунд, ваша ловкость также увеличится на 10 на 10 мин. |
 | **[Sour Mountain Berry](https://database.turtle-wow.org/?item=51711)** | Если вы будете есть в течение 10 секунд, ваша ловкость также увеличится на 10 на 10 мин. |

@@ -73,7 +73,7 @@
 
 | Предмет | Описание |
 | :--- | :--- |
-| **[Titan Flask](https://database.turtle-wow.org/?item=13510)** | Повышает максимальный запас здоровья игрока на 1200 на 2 часа. |
+| **[Flask of the Titans](https://database.turtle-wow.org/?item=13510)** | Повышает максимальный запас здоровья игрока на 1200 на 2 часа. |
 | **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
 | **[Elixir of the Mongoose](https://database.turtle-wow.org/?item=13452)** | Повышает ловкость на 25 и вероятность критического удара на 2% на 1 час. |
 | **[Hardened Mushroom](https://database.turtle-wow.org/?item=51717)** | Вы насытитесь и получите 25 выносливости на 15 мин. |
