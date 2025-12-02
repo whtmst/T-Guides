@@ -113,9 +113,9 @@
 | **ПАЛАДИН** | ✅ Готов | [PaladinConsumables.md](PaladinConsumables.md) |
 | **ПРИСТ** | ✅ Готов | [PriestConsumables.md](PriestConsumables.md) |
 | **РАЗБОЙНИК** | ✅ Готов | [RogueConsumables.md](RogueConsumables.md) |
-| **ШАМАН** | 🛠️ В разработке | [ShamanConsumables.md](ShamanConsumables.md) |
-| **ЧЕРНОКНИЖНИК** | 🛠️ В разработке | [WarlockConsumables.md](WarlockConsumables.md) |
-| **ВОИН** | 🛠️ В разработке | [WarriorConsumables.md](WarriorConsumables.md) |
+| **ШАМАН** | ✅ Готов | [ShamanConsumables.md](ShamanConsumables.md) |
+| **ЧЕРНОКНИЖНИК** | ✅ Готов | [WarlockConsumables.md](WarlockConsumables.md) |
+| **ВОИН** | ✅ Готов | [WarriorConsumables.md](WarriorConsumables.md) |
 
 ---
 
