@@ -38,7 +38,7 @@
 | **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
 | **[Mageblood Potion](https://database.turtle-wow.org/?item=20007)** | Восстанавливает 12 маны раз в 5 сек. в течение 1 часа. |
 | **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
 
 ### ⚠️ **СИТУАТИВНЫЕ**
 
@@ -85,7 +85,7 @@
 | **[Medivh's Merlot Blue](https://database.turtle-wow.org/?item=61175)** | Повышает интеллект на 15 на 15 мин. |
 | **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
 | **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
 | **[Mageblood Potion](https://database.turtle-wow.org/?item=20007)** | Восстанавливает 12 маны раз в 5 сек. в течение 1 часа. |
 
 ### ⚠️ **СИТУАТИВНЫЕ**

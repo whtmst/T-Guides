@@ -43,7 +43,7 @@
 | **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
 | **[Medivh's Merlot Blue](https://database.turtle-wow.org/?item=61175)** | Повышает интеллект на 15 на 15 мин. | **[Medivh's Merlot](https://database.turtle-wow.org/?item=61174)**, **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)**, **[Gordok Green Grog](https://database.turtle-wow.org/?item=18269)** |
 | **[Major Healing Potion](https://database.turtle-wow.org/?item=13446)** | Восстанавливает от 1050 до 1751 ед. здоровья. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
 
 ### ⚠️ **СИТУАТИВНЫЕ**
 
@@ -137,7 +137,7 @@
 | **[Crystal Ward](https://database.turtle-wow.org/?item=11564)** | Повышает броню цели на 200 на 30 мин. |
 | **[Brilliant Wizard Oil](https://database.turtle-wow.org/?item=20749)** | Повышает урон от заклинаний на 36 и вероятность критического удара заклинаниями на 1% на 30 мин. |
 | **[Major Healing Potion](https://database.turtle-wow.org/?item=13446)** | Восстанавливает от 1050 до 1751 ед. здоровья. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
 | **[Limited Invulnerability Potion](https://database.turtle-wow.org/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. (**⚠️ ВАЖНО: Вы не создаете угрозы в момент действия зелья.**) |
 
 ### ⚠️ **СИТУАТИВНЫЕ**
@@ -179,7 +179,7 @@
 | **[Medivh's Merlot Blue](https://database.turtle-wow.org/?item=61175)** | Повышает интеллект на 15 на 15 мин. |
 | **[Brilliant Mana Oil](https://database.turtle-wow.org/?item=20748)** | Восстанавливает 12 маны каждые 5 сек. и повышает эффективность исцеления на 25. Действует 30 мин. |
 | **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
 
 ### 🛠️ **ВСПОМОГАТЕЛЬНЫЕ**
 

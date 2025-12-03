@@ -38,7 +38,7 @@
 | **[Medivh's Merlot](https://database.turtle-wow.org/?item=61174)** | Повышает выносливость на 25 на 15 мин. | **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)**, **[Gordok Green Grog](https://database.turtle-wow.org/?item=18269)** |
 | **[Elemental Sharpening Stone](https://database.turtle-wow.org/?item=18262)** | Повышает вероятность критического удара оружием ближнего боя на 2% на 30 мин. |
 | **[Major Healing Potion](https://database.turtle-wow.org/?item=13446)** | Восстанавливает от 1050 до 1751 ед. здоровья. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
 
 ### ⚠️ **СИТУАТИВНЫЕ**
 
