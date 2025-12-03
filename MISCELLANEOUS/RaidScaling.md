@@ -14,7 +14,7 @@
 | :--- | :--- | :--- |
 | **[Onyxia Lair (Ony)](../RAIDS/Onyxia.md)** | 40 человек | 20 человек |
 | **[Molten Core (MC)](../RAIDS/MoltenCore.md)** | 40 человек | 20 человек |
-| **Blackwing Lair (BWL)** | 40 человек | 20 человек |
+| **[Blackwing Lair (BWL)](../RAIDS/BlackwingLair.md)** | 40 человек | 20 человек |
 | **The Temple of Ahn'Qiraj (AQ40)** | 40 человек | 20 человек |
 | **Zul'Gurub (ZG)** | 20 человек | 12 человек |
 | **Ruins of Ahn'qiraj (AQ20)** | 20 человек | 12 человек |
