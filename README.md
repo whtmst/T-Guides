@@ -90,10 +90,11 @@
     * *Требование:* Необходима установка [этих шрифтов](https://github.com/whtmst/T-Fonts).
     * *Альтернатива:* [Версия с латиницей](https://github.com/whtmst/T-Bidder/tree/english) не требующая установки шрифтов.
 2. **[T-RollTracker](https://github.com/whtmst/T-RollTracker)** - продвинутый трекер роллов в чате с объявлением победителя.
-3. **[T-CombatLoggingReminder](https://github.com/whtmst/T-CombatLoggingReminder)** - авто-напоминание включить запись логов при входе в рейд.
-4. **[T-OoM](https://github.com/whtmst/T-OoM)** - анонс окончания маны в чат.
+3. **[T-CombatLoggingReminder](https://github.com/whtmst/T-CombatLoggingReminder)** - авто-напоминание включить/выключить запись логов при входе/выходе из рейда.
+4. **[T-OoM](https://github.com/whtmst/T-OoM)** - анонс об окончания маны в чат.
 5. **[T-Vamp](https://github.com/whtmst/T-Vamp)** - трекер эффективности статов вампиризма и отхила.
 6. **[T-RestedXP](https://github.com/whtmst/T-RestedXP)** - отслеживание уровней Rested XP (0% и 100%).
+7. **[T-GuildExport](https://github.com/whtmst/T-GuildExport)** - аддон для экспорта полного списка участников гильдии в файл с последующей конвертацией в читаемый формат через онлайн инструмент.
 
 ---
 
