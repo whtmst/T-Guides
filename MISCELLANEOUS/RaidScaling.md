@@ -2,6 +2,8 @@
 
 # ⚖️ **[T-Guides] Raid Scaling**
 
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=MISCELLANEOUS/RaidScaling.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/MISCELLANEOUS/RaidScaling.md)
+
 > 💡 На сервере Turtle WoW действует динамическая система скалирования сложности рейдов. Здоровье и урон противников автоматически уменьшаются в зависимости от фактического числа игроков в рейде. Это позволяет проходить контент меньшим составом.
 
 ---

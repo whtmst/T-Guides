@@ -2,6 +2,8 @@
 
 # ⏳ **[T-Guides] Caverns of Time: Black Morass**
 
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=DUNGEONS/BlackMorass.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/DUNGEONS/BlackMorass.md)
+
 ### ⚠️ ВАЖНО: Данный гайд адаптирован под сложное 5-ппл подземелье и основан на обзорах.
 
 ## 🧪 **Расходники и общие сведения**

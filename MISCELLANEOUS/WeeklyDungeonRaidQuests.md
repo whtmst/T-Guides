@@ -2,6 +2,8 @@
 
 # 📜 **[T-Guides] Weekly Dungeon/Raid Quests**
 
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=MISCELLANEOUS/WeeklyDungeonRaidQuests.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/MISCELLANEOUS/WeeklyDungeonRaidQuests.md)
+
 **Weekly Dungeon/Raid Quests** - это специальные еженедельные задания, которые мотивируют игроков посещать подземелья и рейды. Суть проста: убиваем определенных боссов, получаем квестовые предметы и обмениваем их на ценные сундуки с наградами.
 
 ---

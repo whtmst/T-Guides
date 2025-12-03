@@ -2,6 +2,8 @@
 
 # 🐲 **[T-Guides] Blackwing Lair**
 
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=RAIDS/BlackwingLair.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/RAIDS/BlackwingLair.md)
+
 **Blackwing Lair (BWL)** - легендарный рейд на 40 человек (с возможностью скалирования до 20), являющийся домом Нефариана, расположенный на вершине Blackrock Spire.
 
 ## 🧪 **Расходники**

@@ -2,6 +2,8 @@
 
 # 🌿 **[T-Guides] Druid Consumables**
 
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=CONSUMABLES/DruidConsumables.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/CONSUMABLES/DruidConsumables.md)
+
 Полный список необходимой химии и расходников для друида, разбитый по специализациям.
 
 > 📝 **Примечание:** Альтернативная химия, как правило, **не стакается** с основной. Выбирайте что-то одно в зависимости от доступности и бюджета.

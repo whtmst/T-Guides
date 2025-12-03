@@ -2,6 +2,8 @@
 
 # 🔥 **[T-Guides] Molten Core**
 
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=RAIDS/MoltenCore.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/RAIDS/MoltenCore.md)
+
 ### ⚠️ ВАЖНО: Данный гайд адаптирован под рейд ростер который ведет РЛ Titanbeard (гильдия [ONLINE](https://discord.gg/6jHMsP5ZvM)). Вы можете использовать его как основу для создания своего собственного гайда.
 
 ## 🛡️ **Роли танков**
