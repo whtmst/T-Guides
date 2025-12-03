@@ -1,6 +1,8 @@
 ![COVER](img/RaidConsumables.png)
 
-# 🧪 **[T-Guides] Raid Consumables** [![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=RAIDS/LowerKarazhanHalls.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main)
+# 🧪 **[T-Guides] Raid Consumables**
+
+[![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=CONSUMABLES/RaidConsumables.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main/CONSUMABLES/RaidConsumables.md)
 
 Полный список необходимой химии, еды и расходных материалов для рейдов. Данные разбиты по ролям для удобства подготовки. **[Полная рейдовая химия](#-полная-рейдовая-химия) на каждый класс и его спеки находится в самом низу страницы.**
 
