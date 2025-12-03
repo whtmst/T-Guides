@@ -1,6 +1,6 @@
 ![COVER](img/RaidConsumables.png)
 
-# 🧪 **[T-Guides] Raid Consumables**
+# 🧪 **[T-Guides] Raid Consumables** [![Last commit](https://img.shields.io/github/last-commit/whtmst/T-Guides?path=RAIDS/LowerKarazhanHalls.md&style=flat-square&label=Last%20updated&labelColor=212830&color=80c101)](https://github.com/whtmst/T-Guides/commits/main)
 
 Полный список необходимой химии, еды и расходных материалов для рейдов. Данные разбиты по ролям для удобства подготовки. **[Полная рейдовая химия](#-полная-рейдовая-химия) на каждый класс и его спеки находится в самом низу страницы.**
 
@@ -72,7 +72,7 @@
 | **[Ground Scorpok Assay](https://database.turtle-wow.org/?item=8412)** | +25 Ловкости (Blasted Lands) (Эликсир) (Выбор под свой класс/спек) | 1 час |
 | **[Lung Juice Cocktail](https://database.turtle-wow.org/?item=8411)** | +25 Выносливости (Blasted Lands) (Эликсир) (Выбор для выживаемости) | 1 час |
 | **[Winterfall Firewater](https://database.turtle-wow.org/?item=12820)** | +35 Силы атаки, Увеличение размера (Напиток) | 20 мин |
-| **[Juju Might](https://database.turtle-wow.org/?item=12460)** | +40 Силы атаки (Не стакается с Winterfall Firewater) (Заклинание) | 10 мин |
+| **[Juju Might](https://database.turtle-wow.org/?item=12460)** | +40 Силы атаки ближнего и дальнего боя (Не стакается с Winterfall Firewater) (Заклинание) | 10 мин |
 | **[Power Mushroom](https://database.turtle-wow.org/?item=51720)** | +20 Силы (Еда) (Выбор под свой класс/спек)  | 15 мин |
 | **[Smoked Desert Dumplings](https://database.turtle-wow.org/?item=20452)** | +20 Силы (Еда) (Выбор под свой класс/спек)  | 15 мин |
 | **[Danonzo's Tel'Abim Medley](https://database.turtle-wow.org/?item=60978)** | +2% Скорости (Еда) (Выбор под свой класс/спек)  | 15 мин |
