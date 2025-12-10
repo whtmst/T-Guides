@@ -57,6 +57,7 @@
 * **[Turtle WoW Raid Consumables](CONSUMABLES/RaidConsumables.md)** - полный список необходимой химии, еды и расходных материалов для рейдов. Данные разбиты по ролям, классам, специализациям для удобства подготовки.
 * **[Turtle WoW Raid Scaling](MISCELLANEOUS/RaidScaling.md)** - как работает уменьшение сложности (скалирование) рейдов в зависимости от состава.
 * **[Turtle WoW Weekly Dungeon/Raid Quests](MISCELLANEOUS/WeeklyDungeonRaidQuests.md)** - гайд по еженедельным заданиям и их наградам.
+* **[Turtle WoW Winter Veil Event](https://miro.com/app/board/uXjVGfd_bYE=/)** - Зимний фестиваль Turtle WoW. Гайд от **Freezz**.
 * **[Turtle WoW Talent Calculator](https://talent-builder.haaxor1689.dev/c/1.18.0)** - калькулятор талантов под патч 1.18.
 * **[Turtle WoW Gear Planner](https://pbrigade.gitlab.io/gear-planner/)** - планировщик экипировки. Присутствуют не все классы.
 * **[Threat Reference Table](https://www.warcrafttavern.com/wow-classic/guides/threat-guide-reference-table/)** - таблица механик угрозы (Threat) в классике.
