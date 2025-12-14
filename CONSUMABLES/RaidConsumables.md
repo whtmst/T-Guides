@@ -106,7 +106,7 @@
 | **ОХОТНИК** | ✅ Готов | [HunterConsumables.md](HunterConsumables.md) |
 | **МАГ** | ✅ Готов | [MageConsumables.md](MageConsumables.md) |
 | **ПАЛАДИН** | ✅ Готов | [PaladinConsumables.md](PaladinConsumables.md) |
-| **ПРИСТ** | ✅ Готов | [PriestConsumables.md](PriestConsumables.md) |
+| **ЖРЕЦ** | ✅ Готов | [PriestConsumables.md](PriestConsumables.md) |
 | **РАЗБОЙНИК** | ✅ Готов | [RogueConsumables.md](RogueConsumables.md) |
 | **ШАМАН** | ✅ Готов | [ShamanConsumables.md](ShamanConsumables.md) |
 | **ЧЕРНОКНИЖНИК** | ✅ Готов | [WarlockConsumables.md](WarlockConsumables.md) |

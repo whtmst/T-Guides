@@ -117,7 +117,7 @@
 - [ОХОТНИК](HunterConsumables.md)
 - [МАГ](MageConsumables.md)
 - [ПАЛАДИН](PaladinConsumables.md)
-- [ПРИСТ](PriestConsumables.md)
+- [ЖРЕЦ](PriestConsumables.md)
 - [РАЗБОЙНИК](RogueConsumables.md)
 - [ШАМАН](ShamanConsumables.md)
 - [ЧЕРНОКНИЖНИК](WarlockConsumables.md)

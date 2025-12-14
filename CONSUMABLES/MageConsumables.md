@@ -75,7 +75,7 @@
 - [ДРУИД](DruidConsumables.md)
 - [ОХОТНИК](HunterConsumables.md)
 - [ПАЛАДИН](PaladinConsumables.md)
-- [ПРИСТ](PriestConsumables.md)
+- [ЖРЕЦ](PriestConsumables.md)
 - [РАЗБОЙНИК](RogueConsumables.md)
 - [ШАМАН](ShamanConsumables.md)
 - [ЧЕРНОКНИЖНИК](WarlockConsumables.md)

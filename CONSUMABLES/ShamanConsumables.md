@@ -211,7 +211,7 @@
 - [ОХОТНИК](HunterConsumables.md)
 - [МАГ](MageConsumables.md)
 - [ПАЛАДИН](PaladinConsumables.md)
-- [ПРИСТ](PriestConsumables.md)
+- [ЖРЕЦ](PriestConsumables.md)
 - [РАЗБОЙНИК](RogueConsumables.md)
 - [ЧЕРНОКНИЖНИК](WarlockConsumables.md)
 - [ВОИН](WarriorConsumables.md)
