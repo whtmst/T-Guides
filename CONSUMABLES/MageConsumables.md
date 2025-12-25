@@ -21,17 +21,17 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Elixir of Fortitude](https://database.turtle-wow.org/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
-| **[Flask of Supreme Power](https://database.turtle-wow.org/?item=13512)** | Повышает урон от магических заклинаний и эффектов на 150 на 2 часа. |
-| **[Dreamshard Elixir](https://database.turtle-wow.org/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
-| **[Greater Arcane Elixir](https://database.turtle-wow.org/?item=13454)** | Увеличивает силу заклинаний на 35 на 1 час. |
-| **[Dreamtonic](https://database.turtle-wow.org/?item=61423)** | Увеличивает силу заклинаний на 35 на 20 мин. |
-| **[Brilliant Wizard Oil](https://database.turtle-wow.org/?item=20749)** | Увеличивает силу заклинаний на 36 и шанс критического удара заклинаниями на 1% на 30 мин. |
-| **[Danonzo's Tel'Abim Delight](https://database.turtle-wow.org/?item=60977)** | Вы насытитесь и получите 22 к силе заклинаний на 15 мин. |
-| **[Cerebral Cortex Compound](https://database.turtle-wow.org/?item=8423)** | Повышает интеллект на 25 на 60 мин. |
-| **[Mageblood Potion](https://database.turtle-wow.org/?item=20007)** | Восстанавливает 12 маны каждые 5 сек. в течение 1 часа. |
-| **[Medivh's Merlot Blue](https://database.turtle-wow.org/?item=61175)** | Повышает интеллект на 15 на 15 мин. |
-| **[Potion of Quickness](https://database.turtle-wow.org/?item=61181)** | Повышает скорость (Haste) для всех видов атак на 5% на 30 сек. | **[Juju Flurry](https://database.turtle-wow.org/?item=12450)** |
+| **[Elixir of Fortitude](https://database.turtlecraft.gg/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
+| **[Flask of Supreme Power](https://database.turtlecraft.gg/?item=13512)** | Повышает урон от магических заклинаний и эффектов на 150 на 2 часа. |
+| **[Dreamshard Elixir](https://database.turtlecraft.gg/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
+| **[Greater Arcane Elixir](https://database.turtlecraft.gg/?item=13454)** | Увеличивает силу заклинаний на 35 на 1 час. |
+| **[Dreamtonic](https://database.turtlecraft.gg/?item=61423)** | Увеличивает силу заклинаний на 35 на 20 мин. |
+| **[Brilliant Wizard Oil](https://database.turtlecraft.gg/?item=20749)** | Увеличивает силу заклинаний на 36 и шанс критического удара заклинаниями на 1% на 30 мин. |
+| **[Danonzo's Tel'Abim Delight](https://database.turtlecraft.gg/?item=60977)** | Вы насытитесь и получите 22 к силе заклинаний на 15 мин. |
+| **[Cerebral Cortex Compound](https://database.turtlecraft.gg/?item=8423)** | Повышает интеллект на 25 на 60 мин. |
+| **[Mageblood Potion](https://database.turtlecraft.gg/?item=20007)** | Восстанавливает 12 маны каждые 5 сек. в течение 1 часа. |
+| **[Medivh's Merlot Blue](https://database.turtlecraft.gg/?item=61175)** | Повышает интеллект на 15 на 15 мин. |
+| **[Potion of Quickness](https://database.turtlecraft.gg/?item=61181)** | Повышает скорость (Haste) для всех видов атак на 5% на 30 сек. | **[Juju Flurry](https://database.turtlecraft.gg/?item=12450)** |
 
 ---
 
@@ -39,9 +39,9 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
-| **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
+| **[Spirit of Zanza](https://database.turtlecraft.gg/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
+| **[Major Mana Potion](https://database.turtlecraft.gg/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtlecraft.gg/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtlecraft.gg/?item=15723)** |
 
 ---
 
@@ -49,23 +49,23 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Elixir of Greater Firepower](https://database.turtle-wow.org/?item=21546)** | Повышает урон от огненных заклинаний на 40 на 1 час. |
-| **[Elixir of Greater Frost Power](https://database.turtle-wow.org/?item=55046)** | Повышает урон от заклинаний ледяной магии на 40 на 1 час. |
-| **[Elixir of Greater Arcane Power](https://database.turtle-wow.org/?item=55048)** | Повышает урон от заклинаний тайной магии на 40 на 1 час. |
-| **[Greater Fire Protection Potion](https://database.turtle-wow.org/?item=13457)** | Поглощает от 1950 до 3251 ед. урона от огня. Действует 1 час. |
-| **[Greater Arcane Protection Potion](https://database.turtle-wow.org/?item=13461)** | Поглощает от 1950 до 3251 ед. урона от тайной магии. Действует 1 час. |
-| **[Greater Frost Protection Potion](https://database.turtle-wow.org/?item=13456)** | Поглощает от 1950 до 3251 ед. урона от магии льда. Действует 1 час. |
-| **[Greater Shadow Protection Potion](https://database.turtle-wow.org/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
-| **[Greater Nature Protection Potion](https://database.turtle-wow.org/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
-| **[Elixir of Poison Resistance](https://database.turtle-wow.org/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
-| **[Swiftness of Zanza](https://database.turtle-wow.org/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
-| **[Free Action Potion](https://database.turtle-wow.org/?item=5634)** | Иммунитет к оглушению и эффектам, ограничивающим передвижение, на 30 сек. |
-| **[Blessed Wizard Oil](https://database.turtle-wow.org/?item=23123)** | Повышает урон от заклинаний против нежити на 60, пока нанесено на оружие. Действует 1 час. |
-| **[Restorative Potion](https://database.turtle-wow.org/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
-| **[Juju Chill](https://database.turtle-wow.org/?item=12457)** | Повышает сопротивление магии льда на 10 мин. |
-| **[Juju Ember](https://database.turtle-wow.org/?item=12455)** | Повышает сопротивление магии огня на 10 мин. |
-| **[Limited Invulnerability Potion](https://database.turtle-wow.org/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. |
-| **[Stratholme Holy Water](https://database.turtle-wow.org/?item=13180)** | Наносит 438-563 урона нежити в радиусе 5 м. Не создает угрозы. |
+| **[Elixir of Greater Firepower](https://database.turtlecraft.gg/?item=21546)** | Повышает урон от огненных заклинаний на 40 на 1 час. |
+| **[Elixir of Greater Frost Power](https://database.turtlecraft.gg/?item=55046)** | Повышает урон от заклинаний ледяной магии на 40 на 1 час. |
+| **[Elixir of Greater Arcane Power](https://database.turtlecraft.gg/?item=55048)** | Повышает урон от заклинаний тайной магии на 40 на 1 час. |
+| **[Greater Fire Protection Potion](https://database.turtlecraft.gg/?item=13457)** | Поглощает от 1950 до 3251 ед. урона от огня. Действует 1 час. |
+| **[Greater Arcane Protection Potion](https://database.turtlecraft.gg/?item=13461)** | Поглощает от 1950 до 3251 ед. урона от тайной магии. Действует 1 час. |
+| **[Greater Frost Protection Potion](https://database.turtlecraft.gg/?item=13456)** | Поглощает от 1950 до 3251 ед. урона от магии льда. Действует 1 час. |
+| **[Greater Shadow Protection Potion](https://database.turtlecraft.gg/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
+| **[Greater Nature Protection Potion](https://database.turtlecraft.gg/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
+| **[Elixir of Poison Resistance](https://database.turtlecraft.gg/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
+| **[Swiftness of Zanza](https://database.turtlecraft.gg/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
+| **[Free Action Potion](https://database.turtlecraft.gg/?item=5634)** | Иммунитет к оглушению и эффектам, ограничивающим передвижение, на 30 сек. |
+| **[Blessed Wizard Oil](https://database.turtlecraft.gg/?item=23123)** | Повышает урон от заклинаний против нежити на 60, пока нанесено на оружие. Действует 1 час. |
+| **[Restorative Potion](https://database.turtlecraft.gg/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
+| **[Juju Chill](https://database.turtlecraft.gg/?item=12457)** | Повышает сопротивление магии льда на 10 мин. |
+| **[Juju Ember](https://database.turtlecraft.gg/?item=12455)** | Повышает сопротивление магии огня на 10 мин. |
+| **[Limited Invulnerability Potion](https://database.turtlecraft.gg/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. |
+| **[Stratholme Holy Water](https://database.turtlecraft.gg/?item=13180)** | Наносит 438-563 урона нежити в радиусе 5 м. Не создает угрозы. |
 
 ---
 

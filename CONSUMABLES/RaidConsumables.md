@@ -14,14 +14,14 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Elixir of Fortitude](https://database.turtle-wow.org/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
-| **[Greater Fire Protection Potion](https://database.turtle-wow.org/?item=13457)** | Поглощает от 1950 до 3251 ед. урона от огня. Действует 1 час. |
-| **[Greater Arcane Protection Potion](https://database.turtle-wow.org/?item=13461)** | Поглощает от 1950 до 3251 ед. урона от тайной магии. Действует 1 час. |
-| **[Greater Frost Protection Potion](https://database.turtle-wow.org/?item=13456)** | Поглощает от 1950 до 3251 ед. урона от магии льда. Действует 1 час. |
-| **[Greater Shadow Protection Potion](https://database.turtle-wow.org/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
-| **[Greater Nature Protection Potion](https://database.turtle-wow.org/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
-| **[Limited Invulnerability Potion](https://database.turtle-wow.org/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. (**⚠️ ВАЖНО ТАНКАМ: Вы не создаете угрозы в момент действия зелья.**) |
-| **[Restorative Potion](https://database.turtle-wow.org/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
+| **[Elixir of Fortitude](https://database.turtlecraft.gg/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
+| **[Greater Fire Protection Potion](https://database.turtlecraft.gg/?item=13457)** | Поглощает от 1950 до 3251 ед. урона от огня. Действует 1 час. |
+| **[Greater Arcane Protection Potion](https://database.turtlecraft.gg/?item=13461)** | Поглощает от 1950 до 3251 ед. урона от тайной магии. Действует 1 час. |
+| **[Greater Frost Protection Potion](https://database.turtlecraft.gg/?item=13456)** | Поглощает от 1950 до 3251 ед. урона от магии льда. Действует 1 час. |
+| **[Greater Shadow Protection Potion](https://database.turtlecraft.gg/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
+| **[Greater Nature Protection Potion](https://database.turtlecraft.gg/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
+| **[Limited Invulnerability Potion](https://database.turtlecraft.gg/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. (**⚠️ ВАЖНО ТАНКАМ: Вы не создаете угрозы в момент действия зелья.**) |
+| **[Restorative Potion](https://database.turtlecraft.gg/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
 | **Классовые реагенты** | Символы, Перья, Свечи, Порошки и т.д. (Реагенты) |
 
 ---
@@ -32,13 +32,13 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Elixir of Superior Defense](https://database.turtle-wow.org/?item=13445)** | Повышает броню на 450 на 1 час. |
-| **[Greater Stoneshield Potion](https://database.turtle-wow.org/?item=13455)** | Повышает броню на 2000 на 2 мин. |
-| **[Gift of Arthas](https://database.turtle-wow.org/?item=9088)** | Сопротивление темной магии +10. Атакующие имеют 30% шанс заразиться болезнью, увеличивающей получаемый урон на 8 на 3 мин. Действует 30 мин. |
-| **[Hardened Mushroom](https://database.turtle-wow.org/?item=51717)** | Вы насытитесь и получите 25 выносливости на 15 мин. (Выбор для выживаемости) | **[Sweet Mountain Berry](https://database.turtle-wow.org/?item=51714)**, **[Gurubashi Gumbo](https://database.turtle-wow.org/?item=53015)** |
-| **[Power Mushroom](https://database.turtle-wow.org/?item=51720)** | Вы насытитесь и получите 20 силы на 15 мин. (Выбор для урона) | **[Smoked Desert Dumplings](https://database.turtle-wow.org/?item=20452)** |
-| **[Danonzo's Tel'Abim Medley](https://database.turtle-wow.org/?item=60978)** | Если вы будете есть в течение 10 секунд, ваша скорость (Haste) также увеличится на +2% на 15 мин. (Выбор для урона) |
-| **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)** | Повышает выносливость на 15 на 15 мин. | **[Gordok Green Grog](https://database.turtle-wow.org/?item=18269)**, **[Medivh's Merlot](https://database.turtle-wow.org/?item=61174)** |
+| **[Elixir of Superior Defense](https://database.turtlecraft.gg/?item=13445)** | Повышает броню на 450 на 1 час. |
+| **[Greater Stoneshield Potion](https://database.turtlecraft.gg/?item=13455)** | Повышает броню на 2000 на 2 мин. |
+| **[Gift of Arthas](https://database.turtlecraft.gg/?item=9088)** | Сопротивление темной магии +10. Атакующие имеют 30% шанс заразиться болезнью, увеличивающей получаемый урон на 8 на 3 мин. Действует 30 мин. |
+| **[Hardened Mushroom](https://database.turtlecraft.gg/?item=51717)** | Вы насытитесь и получите 25 выносливости на 15 мин. (Выбор для выживаемости) | **[Sweet Mountain Berry](https://database.turtlecraft.gg/?item=51714)**, **[Gurubashi Gumbo](https://database.turtlecraft.gg/?item=53015)** |
+| **[Power Mushroom](https://database.turtlecraft.gg/?item=51720)** | Вы насытитесь и получите 20 силы на 15 мин. (Выбор для урона) | **[Smoked Desert Dumplings](https://database.turtlecraft.gg/?item=20452)** |
+| **[Danonzo's Tel'Abim Medley](https://database.turtlecraft.gg/?item=60978)** | Если вы будете есть в течение 10 секунд, ваша скорость (Haste) также увеличится на +2% на 15 мин. (Выбор для урона) |
+| **[Rumsey Rum Black Label](https://database.turtlecraft.gg/?item=21151)** | Повышает выносливость на 15 на 15 мин. | **[Gordok Green Grog](https://database.turtlecraft.gg/?item=18269)**, **[Medivh's Merlot](https://database.turtlecraft.gg/?item=61174)** |
 
 ---
 
@@ -48,13 +48,13 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Lesser Mana Oil](https://database.turtle-wow.org/?item=20747)** | Восстанавливает 8 маны каждые 5 сек. Действует 30 мин. | **[Brilliant Mana Oil](https://database.turtle-wow.org/?item=20748)** |
-| **[Dreamshard Elixir](https://database.turtle-wow.org/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
-| **[Sagefish Delight](https://database.turtle-wow.org/?item=21217)** | Вы насытитесь и будете восстанавливать +6 маны каждые 5 сек. Действует 15 мин. | **[Nightfin Soup](https://database.turtle-wow.org/?item=13931)**, **[Runn Tum Tuber Surprise](https://database.turtle-wow.org/?item=18254)**, **[Danonzo's Tel'Abim Medley](https://database.turtle-wow.org/?item=60978)**, **[Empowering Herbal Salad](https://database.turtle-wow.org/?item=83309)**  |
-| **[Cerebral Cortex Compound](https://database.turtle-wow.org/?item=8423)** | Повышает интеллект на 25 при использовании. Эффект длится 60 минут. |
-| **[Medivh's Merlot Blue](https://database.turtle-wow.org/?item=61175)** | Повышает интеллект на 15 на 15 мин. |
-| **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
+| **[Lesser Mana Oil](https://database.turtlecraft.gg/?item=20747)** | Восстанавливает 8 маны каждые 5 сек. Действует 30 мин. | **[Brilliant Mana Oil](https://database.turtlecraft.gg/?item=20748)** |
+| **[Dreamshard Elixir](https://database.turtlecraft.gg/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
+| **[Sagefish Delight](https://database.turtlecraft.gg/?item=21217)** | Вы насытитесь и будете восстанавливать +6 маны каждые 5 сек. Действует 15 мин. | **[Nightfin Soup](https://database.turtlecraft.gg/?item=13931)**, **[Runn Tum Tuber Surprise](https://database.turtlecraft.gg/?item=18254)**, **[Danonzo's Tel'Abim Medley](https://database.turtlecraft.gg/?item=60978)**, **[Empowering Herbal Salad](https://database.turtlecraft.gg/?item=83309)**  |
+| **[Cerebral Cortex Compound](https://database.turtlecraft.gg/?item=8423)** | Повышает интеллект на 25 при использовании. Эффект длится 60 минут. |
+| **[Medivh's Merlot Blue](https://database.turtlecraft.gg/?item=61175)** | Повышает интеллект на 15 на 15 мин. |
+| **[Major Mana Potion](https://database.turtlecraft.gg/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtlecraft.gg/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtlecraft.gg/?item=15723)** |
 
 ---
 
@@ -64,15 +64,15 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Elixir of the Mongoose](https://database.turtle-wow.org/?item=13452)** | Повышает ловкость на 25 и вероятность критического удара на 2% на 1 час. |
-| **[Elixir of Giants](https://database.turtle-wow.org/?item=9206)** | Повышает силу на 25 на 1 час. | **[Juju Power](https://database.turtle-wow.org/?item=12451)** |
-| **[R.O.I.D.S.](https://database.turtle-wow.org/?item=8410)** | Повышает силу на 25 при использовании на 60 мин. | **[Ground Scorpok Assay](https://database.turtle-wow.org/?item=8412)**, **[Lung Juice Cocktail](https://database.turtle-wow.org/?item=8411)** |
-| **[Winterfall Firewater](https://database.turtle-wow.org/?item=12820)** | Повышает силу атаки в ближнем бою на 35 и увеличивает размер на 20 мин. | **[Juju Might](https://database.turtle-wow.org/?item=12460)** |
-| **[Power Mushroom](https://database.turtle-wow.org/?item=51720)** | Вы насытитесь и получите 20 силы на 15 мин. (Выбор для урона) | **[Smoked Desert Dumplings](https://database.turtle-wow.org/?item=20452)** |
-| **[Danonzo's Tel'Abim Medley](https://database.turtle-wow.org/?item=60978)** | Если вы будете есть в течение 10 секунд, ваша скорость (Haste) также увеличится на +2% на 15 мин. (Выбор для урона) |
-| **[Grilled Squid](https://database.turtle-wow.org/?item=13928)** | Если вы будете есть в течение 10 секунд, ваша ловкость также увеличится на 10 на 10 мин. (Выбор для урона) | **[Sour Mountain Berry](https://database.turtle-wow.org/?item=51711)** |
-| **[Dense Sharpening Stone](https://database.turtle-wow.org/?item=12404)** | Увеличивает урон наносимый острым оружием на 8 ед. на 30 мин. | **[Elemental Sharpening Stone](https://database.turtle-wow.org/?item=18262)**, **[Dense Weightstone](https://database.turtle-wow.org/?item=12643)** |
-| **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)** | Повышает выносливость на 15 на 15 мин. | **[Gordok Green Grog](https://database.turtle-wow.org/?item=18269)**, **[Medivh's Merlot](https://database.turtle-wow.org/?item=61174)** |
+| **[Elixir of the Mongoose](https://database.turtlecraft.gg/?item=13452)** | Повышает ловкость на 25 и вероятность критического удара на 2% на 1 час. |
+| **[Elixir of Giants](https://database.turtlecraft.gg/?item=9206)** | Повышает силу на 25 на 1 час. | **[Juju Power](https://database.turtlecraft.gg/?item=12451)** |
+| **[R.O.I.D.S.](https://database.turtlecraft.gg/?item=8410)** | Повышает силу на 25 при использовании на 60 мин. | **[Ground Scorpok Assay](https://database.turtlecraft.gg/?item=8412)**, **[Lung Juice Cocktail](https://database.turtlecraft.gg/?item=8411)** |
+| **[Winterfall Firewater](https://database.turtlecraft.gg/?item=12820)** | Повышает силу атаки в ближнем бою на 35 и увеличивает размер на 20 мин. | **[Juju Might](https://database.turtlecraft.gg/?item=12460)** |
+| **[Power Mushroom](https://database.turtlecraft.gg/?item=51720)** | Вы насытитесь и получите 20 силы на 15 мин. (Выбор для урона) | **[Smoked Desert Dumplings](https://database.turtlecraft.gg/?item=20452)** |
+| **[Danonzo's Tel'Abim Medley](https://database.turtlecraft.gg/?item=60978)** | Если вы будете есть в течение 10 секунд, ваша скорость (Haste) также увеличится на +2% на 15 мин. (Выбор для урона) |
+| **[Grilled Squid](https://database.turtlecraft.gg/?item=13928)** | Если вы будете есть в течение 10 секунд, ваша ловкость также увеличится на 10 на 10 мин. (Выбор для урона) | **[Sour Mountain Berry](https://database.turtlecraft.gg/?item=51711)** |
+| **[Dense Sharpening Stone](https://database.turtlecraft.gg/?item=12404)** | Увеличивает урон наносимый острым оружием на 8 ед. на 30 мин. | **[Elemental Sharpening Stone](https://database.turtlecraft.gg/?item=18262)**, **[Dense Weightstone](https://database.turtlecraft.gg/?item=12643)** |
+| **[Rumsey Rum Black Label](https://database.turtlecraft.gg/?item=21151)** | Повышает выносливость на 15 на 15 мин. | **[Gordok Green Grog](https://database.turtlecraft.gg/?item=18269)**, **[Medivh's Merlot](https://database.turtlecraft.gg/?item=61174)** |
 
 ---
 
@@ -82,19 +82,19 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Wizard Oil](https://database.turtle-wow.org/?item=20750)** | Увеличивает силу заклинаний на 24 на 30 мин. | **[Brilliant Wizard Oil](https://database.turtle-wow.org/?item=20749)** |
-| **[Gilneas Hot Stew](https://database.turtle-wow.org/?item=84041)** | Вы насытитесь и получите 12 к силе заклинаний на 15 мин. | **[Danonzo's Tel'Abim Delight](https://database.turtle-wow.org/?item=60977)** |
-| **[Dreamshard Elixir](https://database.turtle-wow.org/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
-| **[Dreamtonic](https://database.turtle-wow.org/?item=61423)** | Повышает урон от заклинаний на 35 на 20 мин. |
-| **[Greater Arcane Elixir](https://database.turtle-wow.org/?item=13454)** | Повышает урон от заклинаний на 35 на 1 час. |
-| **[Elixir of Greater Frost Power](https://database.turtle-wow.org/?item=55046)** | Повышает урон от заклинаний ледяной магии на 40 на 1 час. (Выбор под свой класс/спек) |
-| **[Elixir of Greater Firepower](https://database.turtle-wow.org/?item=21546)** | Повышает урон от огненных заклинаний на 40 на 1 час. (Выбор под свой класс/спек) |
-| **[Elixir of Greater Arcane Power](https://database.turtle-wow.org/?item=55048)** | Повышает урон от заклинаний тайной магии на 40 на 1 час. (Выбор под свой класс/спек) |
-| **[Elixir of Shadow Power](https://database.turtle-wow.org/?item=9264)** | Повышает урон от заклинаний темной магии на 40 на 1 час. (Выбор под свой класс/спек) |
-| **[Elixir of Greater Nature Power](https://database.turtle-wow.org/?item=50237)** | Повышает урон от заклинаний природы на 55 на 3600 сек. (Выбор под свой класс/спек) |
-| **[Cerebral Cortex Compound](https://database.turtle-wow.org/?item=8423)** | Повышает интеллект на 25 при использовании. Эффект длится 60 минут. |
-| **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
+| **[Wizard Oil](https://database.turtlecraft.gg/?item=20750)** | Увеличивает силу заклинаний на 24 на 30 мин. | **[Brilliant Wizard Oil](https://database.turtlecraft.gg/?item=20749)** |
+| **[Gilneas Hot Stew](https://database.turtlecraft.gg/?item=84041)** | Вы насытитесь и получите 12 к силе заклинаний на 15 мин. | **[Danonzo's Tel'Abim Delight](https://database.turtlecraft.gg/?item=60977)** |
+| **[Dreamshard Elixir](https://database.turtlecraft.gg/?item=61224)** | Дает 2% критического удара заклинаниями и 15 силы заклинаний на 1 час. |
+| **[Dreamtonic](https://database.turtlecraft.gg/?item=61423)** | Повышает урон от заклинаний на 35 на 20 мин. |
+| **[Greater Arcane Elixir](https://database.turtlecraft.gg/?item=13454)** | Повышает урон от заклинаний на 35 на 1 час. |
+| **[Elixir of Greater Frost Power](https://database.turtlecraft.gg/?item=55046)** | Повышает урон от заклинаний ледяной магии на 40 на 1 час. (Выбор под свой класс/спек) |
+| **[Elixir of Greater Firepower](https://database.turtlecraft.gg/?item=21546)** | Повышает урон от огненных заклинаний на 40 на 1 час. (Выбор под свой класс/спек) |
+| **[Elixir of Greater Arcane Power](https://database.turtlecraft.gg/?item=55048)** | Повышает урон от заклинаний тайной магии на 40 на 1 час. (Выбор под свой класс/спек) |
+| **[Elixir of Shadow Power](https://database.turtlecraft.gg/?item=9264)** | Повышает урон от заклинаний темной магии на 40 на 1 час. (Выбор под свой класс/спек) |
+| **[Elixir of Greater Nature Power](https://database.turtlecraft.gg/?item=50237)** | Повышает урон от заклинаний природы на 55 на 3600 сек. (Выбор под свой класс/спек) |
+| **[Cerebral Cortex Compound](https://database.turtlecraft.gg/?item=8423)** | Повышает интеллект на 25 при использовании. Эффект длится 60 минут. |
+| **[Major Mana Potion](https://database.turtlecraft.gg/?item=13444)** | Восстанавливает от 1350 до 2251 ед. маны. |
+| **[Nordanaar Herbal Tea](https://database.turtlecraft.gg/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtlecraft.gg/?item=15723)** |
 
 ---
 

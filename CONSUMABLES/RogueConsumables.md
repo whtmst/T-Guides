@@ -21,45 +21,45 @@
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Elixir of Fortitude](https://database.turtle-wow.org/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
-| **[Ground Scorpok Assay](https://database.turtle-wow.org/?item=8412)** | Повышает ловкость на 25 при использовании. Эффект длится 60 мин. |
-| **[Winterfall Firewater](https://database.turtle-wow.org/?item=12820)** | Повышает силу атаки в ближнем бою на 35 и увеличивает размер на 20 мин. | **[Juju Might](https://database.turtle-wow.org/?item=12460)** |
-| **[Elixir of Giants](https://database.turtle-wow.org/?item=9206)** | Повышает силу на 25 на 1 час. | **[Juju Power](https://database.turtle-wow.org/?item=12451)** |
-| **[Elixir of the Mongoose](https://database.turtle-wow.org/?item=13452)** | Повышает ловкость на 25 и вероятность критического удара на 2% на 1 час. |
-| **[Sour Mountain Berry](https://database.turtle-wow.org/?item=51711)** | Если вы будете есть в течение 10 секунд, ваша ловкость также увеличится на 10 на 10 мин. | **[Grilled Squid](https://database.turtle-wow.org/?item=13928)**, **[Danonzo's Tel'Abim Medley](https://database.turtle-wow.org/?item=60978)**, **[Smoked Desert Dumplings](https://database.turtle-wow.org/?item=20452)**, **[Power Mushroom](https://database.turtle-wow.org/?item=51720)** |
-| **[Potion of Quickness](https://database.turtle-wow.org/?item=61181)** | Повышает скорость (Haste) для всех видов атак на 5% на 30 сек. | **[Juju Flurry](https://database.turtle-wow.org/?item=12450)** |
+| **[Elixir of Fortitude](https://database.turtlecraft.gg/?item=3825)** | Повышает максимальный запас здоровья на 120 на 1 час. |
+| **[Ground Scorpok Assay](https://database.turtlecraft.gg/?item=8412)** | Повышает ловкость на 25 при использовании. Эффект длится 60 мин. |
+| **[Winterfall Firewater](https://database.turtlecraft.gg/?item=12820)** | Повышает силу атаки в ближнем бою на 35 и увеличивает размер на 20 мин. | **[Juju Might](https://database.turtlecraft.gg/?item=12460)** |
+| **[Elixir of Giants](https://database.turtlecraft.gg/?item=9206)** | Повышает силу на 25 на 1 час. | **[Juju Power](https://database.turtlecraft.gg/?item=12451)** |
+| **[Elixir of the Mongoose](https://database.turtlecraft.gg/?item=13452)** | Повышает ловкость на 25 и вероятность критического удара на 2% на 1 час. |
+| **[Sour Mountain Berry](https://database.turtlecraft.gg/?item=51711)** | Если вы будете есть в течение 10 секунд, ваша ловкость также увеличится на 10 на 10 мин. | **[Grilled Squid](https://database.turtlecraft.gg/?item=13928)**, **[Danonzo's Tel'Abim Medley](https://database.turtlecraft.gg/?item=60978)**, **[Smoked Desert Dumplings](https://database.turtlecraft.gg/?item=20452)**, **[Power Mushroom](https://database.turtlecraft.gg/?item=51720)** |
+| **[Potion of Quickness](https://database.turtlecraft.gg/?item=61181)** | Повышает скорость (Haste) для всех видов атак на 5% на 30 сек. | **[Juju Flurry](https://database.turtlecraft.gg/?item=12450)** |
 
 ### 🛠️ **ВСПОМОГАТЕЛЬНЫЕ**
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Flask of the Titans](https://database.turtle-wow.org/?item=13510)** | Повышает максимальный запас здоровья игрока на 1200 на 2 часа. |
-| **[Spirit of Zanza](https://database.turtle-wow.org/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
-| **[Medivh's Merlot](https://database.turtle-wow.org/?item=61174)** | Повышает выносливость на 25 на 15 мин. | **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)**, **[Gordok Green Grog](https://database.turtle-wow.org/?item=18269)** |
-| **[Elemental Sharpening Stone](https://database.turtle-wow.org/?item=18262)** | Повышает вероятность критического удара оружием ближнего боя на 2% на 30 мин. (**⚠️ ВАЖНО: Используется только когда вы не используете яды**) |
-| **[Major Healing Potion](https://database.turtle-wow.org/?item=13446)** | Восстанавливает от 1050 до 1751 ед. здоровья. |
-| **[Nordanaar Herbal Tea](https://database.turtle-wow.org/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtle-wow.org/?item=15723)** |
+| **[Flask of the Titans](https://database.turtlecraft.gg/?item=13510)** | Повышает максимальный запас здоровья игрока на 1200 на 2 часа. |
+| **[Spirit of Zanza](https://database.turtlecraft.gg/?item=20079)** | Повышает дух и выносливость на 50 на 2 часа. |
+| **[Medivh's Merlot](https://database.turtlecraft.gg/?item=61174)** | Повышает выносливость на 25 на 15 мин. | **[Rumsey Rum Black Label](https://database.turtlecraft.gg/?item=21151)**, **[Gordok Green Grog](https://database.turtlecraft.gg/?item=18269)** |
+| **[Elemental Sharpening Stone](https://database.turtlecraft.gg/?item=18262)** | Повышает вероятность критического удара оружием ближнего боя на 2% на 30 мин. (**⚠️ ВАЖНО: Используется только когда вы не используете яды**) |
+| **[Major Healing Potion](https://database.turtlecraft.gg/?item=13446)** | Восстанавливает от 1050 до 1751 ед. здоровья. |
+| **[Nordanaar Herbal Tea](https://database.turtlecraft.gg/?item=61675)** | Восстанавливает от 525 до 876 ед. здоровья и от 810 до 1351 ед. маны. | **[Tea with Sugar](https://database.turtlecraft.gg/?item=15723)** |
 
 ### ⚠️ **СИТУАТИВНЫЕ**
 
 | Предмет | Описание | Альтернатива |
 | :--- | :--- | :--- |
-| **[Goblin Sapper Charge](https://database.turtle-wow.org/?item=10646)** | Взрывается при срабатывании, нанося 450-751 ед. урона от огня всем врагам поблизости, а также 375-626 ед. урона вам. |
-| **[Greater Fire Protection Potion](https://database.turtle-wow.org/?item=13457)** | Поглощает от 1950 до 3251 ед. урона от огня. Действует 1 час. |
-| **[Greater Arcane Protection Potion](https://database.turtle-wow.org/?item=13461)** | Поглощает от 1950 до 3251 ед. урона от тайной магии. Действует 1 час. |
-| **[Greater Frost Protection Potion](https://database.turtle-wow.org/?item=13456)** | Поглощает от 1950 до 3251 ед. урона от магии льда. Действует 1 час. |
-| **[Greater Shadow Protection Potion](https://database.turtle-wow.org/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
-| **[Greater Nature Protection Potion](https://database.turtle-wow.org/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
-| **[Consecrated Sharpening Stone](https://database.turtle-wow.org/?item=23122)** | Повышает силу атаки против нежити на 100. Действует 1 час. |
-| **[Elixir of Poison Resistance](https://database.turtle-wow.org/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
-| **[Swiftness of Zanza](https://database.turtle-wow.org/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
-| **[Restorative Potion](https://database.turtle-wow.org/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
-| **[Juju Chill](https://database.turtle-wow.org/?item=12457)** | Повышает сопротивление магии льда на 10 мин. |
-| **[Juju Ember](https://database.turtle-wow.org/?item=12455)** | Повышает сопротивление магии огня на 10 мин. |
-| **[Limited Invulnerability Potion](https://database.turtle-wow.org/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. |
-| **[Stratholme Holy Water](https://database.turtle-wow.org/?item=13180)** | Наносит 438-563 урона нежити в радиусе 5 м. Не создает угрозы. |
-| **[Elixir of Demonslaying](https://database.turtle-wow.org/?item=9224)** | Повышает силу атаки против демонов на 265. Действует 5 мин. |
-| **[Gift of Arthas](https://database.turtle-wow.org/?item=9088)** | Сопротивление темной магии +10. Атакующие имеют 30% шанс заразиться болезнью, увеличивающей получаемый урон на 8 на 3 мин. Действует 30 мин. |
+| **[Goblin Sapper Charge](https://database.turtlecraft.gg/?item=10646)** | Взрывается при срабатывании, нанося 450-751 ед. урона от огня всем врагам поблизости, а также 375-626 ед. урона вам. |
+| **[Greater Fire Protection Potion](https://database.turtlecraft.gg/?item=13457)** | Поглощает от 1950 до 3251 ед. урона от огня. Действует 1 час. |
+| **[Greater Arcane Protection Potion](https://database.turtlecraft.gg/?item=13461)** | Поглощает от 1950 до 3251 ед. урона от тайной магии. Действует 1 час. |
+| **[Greater Frost Protection Potion](https://database.turtlecraft.gg/?item=13456)** | Поглощает от 1950 до 3251 ед. урона от магии льда. Действует 1 час. |
+| **[Greater Shadow Protection Potion](https://database.turtlecraft.gg/?item=13459)** | Поглощает от 1950 до 3251 ед. урона от темной магии. Действует 1 час. |
+| **[Greater Nature Protection Potion](https://database.turtlecraft.gg/?item=13458)** | Поглощает от 1950 до 3251 ед. урона от магии природы. Действует 1 час. |
+| **[Consecrated Sharpening Stone](https://database.turtlecraft.gg/?item=23122)** | Повышает силу атаки против нежити на 100. Действует 1 час. |
+| **[Elixir of Poison Resistance](https://database.turtlecraft.gg/?item=3386)** | Выпивший исцеляется от 4 эффектов яда до 60 уровня. |
+| **[Swiftness of Zanza](https://database.turtlecraft.gg/?item=20081)** | Увеличивает скорость передвижения игрока на 20% на 2 часа. |
+| **[Restorative Potion](https://database.turtlecraft.gg/?item=9030)** | Снимает 1 эффект проклятия, яда, болезни или магии раз в 5 сек. |
+| **[Juju Chill](https://database.turtlecraft.gg/?item=12457)** | Повышает сопротивление магии льда на 10 мин. |
+| **[Juju Ember](https://database.turtlecraft.gg/?item=12455)** | Повышает сопротивление магии огня на 10 мин. |
+| **[Limited Invulnerability Potion](https://database.turtlecraft.gg/?item=3387)** | Выпивший получает невосприимчивость к физическим атакам на 6 сек. |
+| **[Stratholme Holy Water](https://database.turtlecraft.gg/?item=13180)** | Наносит 438-563 урона нежити в радиусе 5 м. Не создает угрозы. |
+| **[Elixir of Demonslaying](https://database.turtlecraft.gg/?item=9224)** | Повышает силу атаки против демонов на 265. Действует 5 мин. |
+| **[Gift of Arthas](https://database.turtlecraft.gg/?item=9088)** | Сопротивление темной магии +10. Атакующие имеют 30% шанс заразиться болезнью, увеличивающей получаемый урон на 8 на 3 мин. Действует 30 мин. |
 
 ---
 

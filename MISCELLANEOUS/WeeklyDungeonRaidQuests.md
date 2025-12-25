@@ -14,8 +14,8 @@
 
 | Фракция | NPC | Изображение |
 | :--- | :--- | :---: |
-| 👹 **Орда** | **[Overlord Runthak](https://database.turtle-wow.org/?npc=14392)** (Orgrimmar) | <img src="img/14392-overlord-runthak.jpg" alt="Overlord Runthak" width="200"> |
-| 🦁 **Альянс** | **[Justine Demalier](https://database.turtle-wow.org/?npc=12481)** (Stormwind City) | <img src="img/12481-justine-demalier.jpg" alt="Justine Demalier" width="200"> |
+| 👹 **Орда** | **[Overlord Runthak](https://database.turtlecraft.gg/?npc=14392)** (Orgrimmar) | <img src="img/14392-overlord-runthak.jpg" alt="Overlord Runthak" width="200"> |
+| 🦁 **Альянс** | **[Justine Demalier](https://database.turtlecraft.gg/?npc=12481)** (Stormwind City) | <img src="img/12481-justine-demalier.jpg" alt="Justine Demalier" width="200"> |
 ---
 
 ## ⚔️ **Задания и боссы**
@@ -25,7 +25,7 @@
 ### 🛡️ **1. Call to Arms: Dungeon Delving**
 
 Это задание отправляет вас в классические подземелья 55-60 уровней.
-**Награда:** **[War Supplies Cache](https://database.turtle-wow.org/?item=41986)**
+**Награда:** **[War Supplies Cache](https://database.turtlecraft.gg/?item=41986)**
 
 * **Blackrock Depths (BRD):**
     * Emperor Dagran Thaurissan
@@ -41,7 +41,7 @@
 ### 🔥 **2. Call to Arms: Molten Assault**
 
 Задание для рейдеров, посещающих Огненные Недра.
-**Награда:** **[Molten Supplies Cache](https://database.turtle-wow.org/?item=41990)**
+**Награда:** **[Molten Supplies Cache](https://database.turtlecraft.gg/?item=41990)**
 
 * **Molten Core (MC):**
     * Sorcerer-Thane Thaurissan
@@ -50,7 +50,7 @@
 ### 🔮 **3. Call to Arms: Cleansing the Corruption**
 
 Задание связано с кастомным рейдом Lower Karazhan Halls.
-**Награда:** **[War Supplies Cache](https://database.turtle-wow.org/?item=41986)**
+**Награда:** **[War Supplies Cache](https://database.turtlecraft.gg/?item=41986)**
 
 * **Lower Karazhan Halls (LKH):**
     * Moroes
@@ -71,62 +71,62 @@
 
 | Предмет | Шанс | Тип |
 | :--- | :--- | :--- |
-| **[Elemental Sharpening Stone](https://database.turtle-wow.org/?item=18262)** | 24% | Заточка |
-| **[Brilliant Mana Oil](https://database.turtle-wow.org/?item=20748)** | 24% | Масло |
-| **[Brilliant Wizard Oil](https://database.turtle-wow.org/?item=20749)** | 24% | Масло |
-| **[Bright Dream Shard](https://database.turtle-wow.org/?item=61199)** | 24% | Реагент |
-| **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | 20% | Зелье |
-| **[Major Healing Potion](https://database.turtle-wow.org/?item=13446)** | 20% | Зелье |
-| **[Truesilver Ore](https://database.turtle-wow.org/?item=7911)** | 20% | Руда |
-| **[Thorium Ore](https://database.turtle-wow.org/?item=10620)** | 20% | Руда |
-| **[Dark Iron Ore](https://database.turtle-wow.org/?item=11370)** | 20% | Руда |
-| **[Azerothian Diamond](https://database.turtle-wow.org/?item=12800)** | 20% | Камень |
-| **[Illusion Dust](https://database.turtle-wow.org/?item=16204)** | 16% | Инчант |
-| **[Gromsblood](https://database.turtle-wow.org/?item=8846)** | 15% | Трава |
-| **[Dreamfoil](https://database.turtle-wow.org/?item=13463)** | 15% | Трава |
-| **[Golden Sansam](https://database.turtle-wow.org/?item=13464)** | 15% | Трава |
-| **[Mountain Silversage](https://database.turtle-wow.org/?item=13465)** | 15% | Трава |
-| **[Plaguebloom](https://database.turtle-wow.org/?item=13466)** | 15% | Трава |
-| **[Icecap](https://database.turtle-wow.org/?item=13467)** | 15% | Трава |
-| **[Firebloom](https://database.turtle-wow.org/?item=4625)** | 12% | Трава |
-| **[Wildvine](https://database.turtle-wow.org/?item=8153)** | 12% | Трава |
-| **[Arthas' Tears](https://database.turtle-wow.org/?item=8836)** | 12% | Трава |
-| **[Sungrass](https://database.turtle-wow.org/?item=8838)** | 12% | Трава |
-| **[Blindweed](https://database.turtle-wow.org/?item=8839)** | 12% | Трава |
-| **[Ghost Mushroom](https://database.turtle-wow.org/?item=8845)** | 12% | Трава |
-| **[Fadeleaf](https://database.turtle-wow.org/?item=3818)** | 10% | Трава |
-| **[Wintersbite](https://database.turtle-wow.org/?item=3819)** | 10% | Трава |
-| **[Limited Invulnerability Potion](https://database.turtle-wow.org/?item=3387)** | 10% | Зелье |
-| **[Free Action Potion](https://database.turtle-wow.org/?item=5634)** | 10% | Зелье |
-| **[Elixir of Superior Defense](https://database.turtle-wow.org/?item=13445)** | 10% | Эликсир |
-| **[Elixir of the Mongoose](https://database.turtle-wow.org/?item=13452)** | 10% | Эликсир |
-| **[Mageblood Potion](https://database.turtle-wow.org/?item=20007)** | 10% | Зелье |
-| **[Dreamshard Elixir](https://database.turtle-wow.org/?item=61224)** | 10% | Эликсир |
-| **[Core of Earth](https://database.turtle-wow.org/?item=7075)** | 10% | Элементаль |
-| **[Arcane Crystal](https://database.turtle-wow.org/?item=12363)** | 10% | Камень |
-| **[Essence of Earth](https://database.turtle-wow.org/?item=7076)** | 10% | Эссенция |
-| **[Essence of Fire](https://database.turtle-wow.org/?item=7078)** | 10% | Эссенция |
-| **[Essence of Water](https://database.turtle-wow.org/?item=7080)** | 10% | Эссенция |
-| **[Essence of Air](https://database.turtle-wow.org/?item=7082)** | 10% | Эссенция |
-| **[Living Essence](https://database.turtle-wow.org/?item=12803)** | 10% | Эссенция |
-| **[Large Brilliant Shard](https://database.turtle-wow.org/?item=14344)** | 10% | Инчант |
-| **[Greater Eternal Essence](https://database.turtle-wow.org/?item=16203)** | 10% | Инчант |
-| **[Arcane Essence](https://database.turtle-wow.org/?item=61673)** | 10% | Инчант |
-| **[Purple Lotus](https://database.turtle-wow.org/?item=8831)** | 6% | Трава |
-| **[Grave Moss](https://database.turtle-wow.org/?item=3369)** | 4% | Трава |
-| **[Black Lotus](https://database.turtle-wow.org/?item=13468)** | 4% | Трава (Редкая) |
-| **[Rumsey Rum Black Label](https://database.turtle-wow.org/?item=21151)** | 4% | Алкоголь |
-| **[Flask of the Titans](https://database.turtle-wow.org/?item=13510)** | 3% | Фласка |
-| **[Flask of Distilled Wisdom](https://database.turtle-wow.org/?item=13511)** | 3% | Фласка |
-| **[Flask of Supreme Power](https://database.turtle-wow.org/?item=13512)** | 3% | Фласка |
-| **[Flask of Petrification](https://database.turtle-wow.org/?item=13506)** | 1% | Фласка |
-| **[Tawny Leopard](https://database.turtle-wow.org/?item=12326)** | 0.2% | Маунт |
-| **[Golden Leopard](https://database.turtle-wow.org/?item=12327)** | 0.2% | Маунт |
-| **[Red Feral Raptor](https://database.turtle-wow.org/?item=23803)** | 0.2% | Маунт |
-| **[Brown Tallstrider](https://database.turtle-wow.org/?item=50072)** | 0.2% | Маунт |
-| **[Gray Tallstrider](https://database.turtle-wow.org/?item=50073)** | 0.2% | Маунт |
-| **[Spirit Worg](https://database.turtle-wow.org/?item=80480)** | 0.1% | Маунт |
-| **[Cloudwing Hippogryph](https://database.turtle-wow.org/?item=81242)** | 0.1% | Маунт |
+| **[Elemental Sharpening Stone](https://database.turtlecraft.gg/?item=18262)** | 24% | Заточка |
+| **[Brilliant Mana Oil](https://database.turtlecraft.gg/?item=20748)** | 24% | Масло |
+| **[Brilliant Wizard Oil](https://database.turtlecraft.gg/?item=20749)** | 24% | Масло |
+| **[Bright Dream Shard](https://database.turtlecraft.gg/?item=61199)** | 24% | Реагент |
+| **[Major Mana Potion](https://database.turtlecraft.gg/?item=13444)** | 20% | Зелье |
+| **[Major Healing Potion](https://database.turtlecraft.gg/?item=13446)** | 20% | Зелье |
+| **[Truesilver Ore](https://database.turtlecraft.gg/?item=7911)** | 20% | Руда |
+| **[Thorium Ore](https://database.turtlecraft.gg/?item=10620)** | 20% | Руда |
+| **[Dark Iron Ore](https://database.turtlecraft.gg/?item=11370)** | 20% | Руда |
+| **[Azerothian Diamond](https://database.turtlecraft.gg/?item=12800)** | 20% | Камень |
+| **[Illusion Dust](https://database.turtlecraft.gg/?item=16204)** | 16% | Инчант |
+| **[Gromsblood](https://database.turtlecraft.gg/?item=8846)** | 15% | Трава |
+| **[Dreamfoil](https://database.turtlecraft.gg/?item=13463)** | 15% | Трава |
+| **[Golden Sansam](https://database.turtlecraft.gg/?item=13464)** | 15% | Трава |
+| **[Mountain Silversage](https://database.turtlecraft.gg/?item=13465)** | 15% | Трава |
+| **[Plaguebloom](https://database.turtlecraft.gg/?item=13466)** | 15% | Трава |
+| **[Icecap](https://database.turtlecraft.gg/?item=13467)** | 15% | Трава |
+| **[Firebloom](https://database.turtlecraft.gg/?item=4625)** | 12% | Трава |
+| **[Wildvine](https://database.turtlecraft.gg/?item=8153)** | 12% | Трава |
+| **[Arthas' Tears](https://database.turtlecraft.gg/?item=8836)** | 12% | Трава |
+| **[Sungrass](https://database.turtlecraft.gg/?item=8838)** | 12% | Трава |
+| **[Blindweed](https://database.turtlecraft.gg/?item=8839)** | 12% | Трава |
+| **[Ghost Mushroom](https://database.turtlecraft.gg/?item=8845)** | 12% | Трава |
+| **[Fadeleaf](https://database.turtlecraft.gg/?item=3818)** | 10% | Трава |
+| **[Wintersbite](https://database.turtlecraft.gg/?item=3819)** | 10% | Трава |
+| **[Limited Invulnerability Potion](https://database.turtlecraft.gg/?item=3387)** | 10% | Зелье |
+| **[Free Action Potion](https://database.turtlecraft.gg/?item=5634)** | 10% | Зелье |
+| **[Elixir of Superior Defense](https://database.turtlecraft.gg/?item=13445)** | 10% | Эликсир |
+| **[Elixir of the Mongoose](https://database.turtlecraft.gg/?item=13452)** | 10% | Эликсир |
+| **[Mageblood Potion](https://database.turtlecraft.gg/?item=20007)** | 10% | Зелье |
+| **[Dreamshard Elixir](https://database.turtlecraft.gg/?item=61224)** | 10% | Эликсир |
+| **[Core of Earth](https://database.turtlecraft.gg/?item=7075)** | 10% | Элементаль |
+| **[Arcane Crystal](https://database.turtlecraft.gg/?item=12363)** | 10% | Камень |
+| **[Essence of Earth](https://database.turtlecraft.gg/?item=7076)** | 10% | Эссенция |
+| **[Essence of Fire](https://database.turtlecraft.gg/?item=7078)** | 10% | Эссенция |
+| **[Essence of Water](https://database.turtlecraft.gg/?item=7080)** | 10% | Эссенция |
+| **[Essence of Air](https://database.turtlecraft.gg/?item=7082)** | 10% | Эссенция |
+| **[Living Essence](https://database.turtlecraft.gg/?item=12803)** | 10% | Эссенция |
+| **[Large Brilliant Shard](https://database.turtlecraft.gg/?item=14344)** | 10% | Инчант |
+| **[Greater Eternal Essence](https://database.turtlecraft.gg/?item=16203)** | 10% | Инчант |
+| **[Arcane Essence](https://database.turtlecraft.gg/?item=61673)** | 10% | Инчант |
+| **[Purple Lotus](https://database.turtlecraft.gg/?item=8831)** | 6% | Трава |
+| **[Grave Moss](https://database.turtlecraft.gg/?item=3369)** | 4% | Трава |
+| **[Black Lotus](https://database.turtlecraft.gg/?item=13468)** | 4% | Трава (Редкая) |
+| **[Rumsey Rum Black Label](https://database.turtlecraft.gg/?item=21151)** | 4% | Алкоголь |
+| **[Flask of the Titans](https://database.turtlecraft.gg/?item=13510)** | 3% | Фласка |
+| **[Flask of Distilled Wisdom](https://database.turtlecraft.gg/?item=13511)** | 3% | Фласка |
+| **[Flask of Supreme Power](https://database.turtlecraft.gg/?item=13512)** | 3% | Фласка |
+| **[Flask of Petrification](https://database.turtlecraft.gg/?item=13506)** | 1% | Фласка |
+| **[Tawny Leopard](https://database.turtlecraft.gg/?item=12326)** | 0.2% | Маунт |
+| **[Golden Leopard](https://database.turtlecraft.gg/?item=12327)** | 0.2% | Маунт |
+| **[Red Feral Raptor](https://database.turtlecraft.gg/?item=23803)** | 0.2% | Маунт |
+| **[Brown Tallstrider](https://database.turtlecraft.gg/?item=50072)** | 0.2% | Маунт |
+| **[Gray Tallstrider](https://database.turtlecraft.gg/?item=50073)** | 0.2% | Маунт |
+| **[Spirit Worg](https://database.turtlecraft.gg/?item=80480)** | 0.1% | Маунт |
+| **[Cloudwing Hippogryph](https://database.turtlecraft.gg/?item=81242)** | 0.1% | Маунт |
 
 ### 🌋 **Molten Supplies Cache**
 
@@ -134,22 +134,22 @@
 
 | Предмет | Шанс | Тип |
 | :--- | :--- | :--- |
-| **[Firebloom](https://database.turtle-wow.org/?item=4625)** | 24% | Трава |
-| **[Elemental Fire](https://database.turtle-wow.org/?item=7068)** | 24% | Элементаль |
-| **[Fiery Core](https://database.turtle-wow.org/?item=17010)** | 24% | Реагент из Molten Core |
-| **[Core Leather](https://database.turtle-wow.org/?item=17012)** | 24% | Реагент из Molten Core |
-| **[Essence of Earth](https://database.turtle-wow.org/?item=7076)** | 24% | Эссенция |
-| **[Heart of Fire](https://database.turtle-wow.org/?item=7077)** | 24% | Эссенция |
-| **[Essence of Fire](https://database.turtle-wow.org/?item=7078)** | 24% | Эссенция |
-| **[Lava Core](https://database.turtle-wow.org/?item=17011)** | 24% | Реагент Molten Core |
-| **[Major Mana Potion](https://database.turtle-wow.org/?item=13444)** | 24% | Зелье |
-| **[Major Healing Potion](https://database.turtle-wow.org/?item=13446)** | 24% | Зелье |
-| **[Greater Fire Protection Potion](https://database.turtle-wow.org/?item=13457)** | 24% | Зелье (ГФПП) |
-| **[Elixir of Greater Firepower](https://database.turtle-wow.org/?item=21546)** | 24% | Эликсир |
-| **[Dragonbreath Chili](https://database.turtle-wow.org/?item=12217)** | 4% | Еда |
-| **[Blood of the Mountain](https://database.turtle-wow.org/?item=11382)** | 4% | Реагент Molten Core |
-| **[Flask of Supreme Power](https://database.turtle-wow.org/?item=13512)** | 4% | Фласка |
-| **[Dark Iron Scorpid](https://database.turtle-wow.org/?item=30022)** | 0.2% | Маунт |
+| **[Firebloom](https://database.turtlecraft.gg/?item=4625)** | 24% | Трава |
+| **[Elemental Fire](https://database.turtlecraft.gg/?item=7068)** | 24% | Элементаль |
+| **[Fiery Core](https://database.turtlecraft.gg/?item=17010)** | 24% | Реагент из Molten Core |
+| **[Core Leather](https://database.turtlecraft.gg/?item=17012)** | 24% | Реагент из Molten Core |
+| **[Essence of Earth](https://database.turtlecraft.gg/?item=7076)** | 24% | Эссенция |
+| **[Heart of Fire](https://database.turtlecraft.gg/?item=7077)** | 24% | Эссенция |
+| **[Essence of Fire](https://database.turtlecraft.gg/?item=7078)** | 24% | Эссенция |
+| **[Lava Core](https://database.turtlecraft.gg/?item=17011)** | 24% | Реагент Molten Core |
+| **[Major Mana Potion](https://database.turtlecraft.gg/?item=13444)** | 24% | Зелье |
+| **[Major Healing Potion](https://database.turtlecraft.gg/?item=13446)** | 24% | Зелье |
+| **[Greater Fire Protection Potion](https://database.turtlecraft.gg/?item=13457)** | 24% | Зелье (ГФПП) |
+| **[Elixir of Greater Firepower](https://database.turtlecraft.gg/?item=21546)** | 24% | Эликсир |
+| **[Dragonbreath Chili](https://database.turtlecraft.gg/?item=12217)** | 4% | Еда |
+| **[Blood of the Mountain](https://database.turtlecraft.gg/?item=11382)** | 4% | Реагент Molten Core |
+| **[Flask of Supreme Power](https://database.turtlecraft.gg/?item=13512)** | 4% | Фласка |
+| **[Dark Iron Scorpid](https://database.turtlecraft.gg/?item=30022)** | 0.2% | Маунт |
 
 ---
 
