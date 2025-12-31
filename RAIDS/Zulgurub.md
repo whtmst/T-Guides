@@ -1,4 +1,4 @@
-![COVER](img/Zulgurub.png)
+![COVER](img/ZulGurub.png)
 
 # 🌴 **[T-Guides] Zul'Gurub**
 
