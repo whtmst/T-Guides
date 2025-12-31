@@ -33,7 +33,7 @@
 | **Lower Karazhan Halls (LKH)** | 10-Man | ✅ Готов | [RAIDS/Lower Karazhan Halls.md](RAIDS/LowerKarazhanHalls.md) |
 | **Blackwing Lair (BWL)** | 40-Man | ✅ Готов | [RAIDS/Blackwing Lair.md](RAIDS/BlackwingLair.md) |
 | **Emerald Sanctum (ES)** | 40-Man | 🛠️ В разработке | |
-| **Zul'Gurub (ZG)** | 20-Man | 🛠️ В разработке | |
+| **Zul'Gurub (ZG)** | 20-Man | ✅ Готов | [RAIDS/Zul'Gurub.md](RAIDS/Zulgurub.md) |
 | **Ruins of Ahn'Qiraj (AQ20)** | 20-Man | 🛠️ В разработке | |
 | **Temple of Ahn'Qiraj (AQ40)** | 40-Man | 🛠️ В разработке | |
 | **Naxxramas (Naxx)** | 40-Man | 🛠️ В разработке | |
