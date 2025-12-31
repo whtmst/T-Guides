@@ -1,0 +1,39 @@
+# --- Dependencies (Библиотеки) ---
+# Самое важное! Никогда не коммить эту папку
+node_modules/
+_site/
+
+# --- Environment Variables (Твои секреты) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.env.*
+
+# --- Vercel ---
+.vercel
+
+# --- Logs (Логи ошибок) ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- OS Files (Мусор от системы) ---
+.DS_Store
+Thumbs.db
+
+# --- Personal Files (Личные файлы) ---
+parse_consumables.py
+class_consume.json
+raid_config.json
+TECHNICAL_TASK.md
+
+# --- AI Rules (Правила AI) ---
+
+# --- IDE (Настройки редактора, опционально) ---
+.idea/
+.vscode/
+.zed/
+.env*.local

@@ -15,7 +15,7 @@
 * **[Restorative Potion](https://database.turtlecraft.gg/?item=9030)**: Крайне полезен на **Chromaggus** для снятия ядов/болезней/проклятий.
 * **[Flask of the Titans](https://database.turtlecraft.gg/?item=13510)**: Обязательно для танков.
 * **[Stratholme Holy Water](https://database.turtlecraft.gg/?item=13180)**: Очень полезна на 3-й фазе **Nefarian**.
-* Вся остальная **минимальная химия** пьется по умолчанию. Список можно посмотреть **[здесь](https://docs.google.com/spreadsheets/d/1F4txPb-2qzuf0FMHRqRDPYN3_nVGPMNQDlKYYwzOBDA/edit?gid=0#gid=0)**.
+* Вся остальная **минимальная химия** пьется по умолчанию. Список можно посмотреть **[здесь](../CONSUMABLES/RaidConsumables.md)**.
 * Наличие боссмода **[BigWigs](https://github.com/pepopo978/BigWigs)** обязательно для каждого уважающего себя рейдера.
 * Удобный аддон для снятия ядов, проклятий и остальных дебаффов - **[Rinse](https://github.com/Otari98/Rinse)**.
 

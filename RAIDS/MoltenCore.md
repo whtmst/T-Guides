@@ -17,7 +17,7 @@
   * **[Greater Arcane Protection Potion (ГАПП)](https://database.turtlecraft.gg/?item=13461)**: Для **Shazzrah** и **Thaurissan**.
   * **[Restorative Potion](https://database.turtlecraft.gg/?item=9030)**: Обязательно на **Lucifron**.
   * **[Limited Invulnerability Potion (LIP)](https://database.turtlecraft.gg/?item=3387)**: Для фазы 50% на **Golemagg**.
-  * Вся остальная **минимальная химия** пьется по умолчанию. Список можно посмотреть **[здесь](https://docs.google.com/spreadsheets/d/1F4txPb-2qzuf0FMHRqRDPYN3_nVGPMNQDlKYYwzOBDA/edit?gid=0#gid=0)**.
+  * Вся остальная **минимальная химия** пьется по умолчанию. Список можно посмотреть **[здесь](../CONSUMABLES/RaidConsumables.md)**.
   * Наличие боссмода **[BigWigs](https://github.com/pepopo978/BigWigs)** обязательно для каждого уважающего себя рейдера.
   * Удобный аддон для снятия ядов, проклятий и остальных дебаффов - **[Rinse](https://github.com/Otari98/Rinse)**.
 
